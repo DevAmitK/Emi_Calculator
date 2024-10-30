@@ -1,0 +1,2 @@
+
+const val WHATSAPP_NUMBER = "7000770007"
